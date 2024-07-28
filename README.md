@@ -2,7 +2,6 @@
 闲聊 安全的点对点聊天，无服务器、去中心化且短暂
 
 [![chitchatter](https://img.shields.io/badge/source-chitchatter-tomato.svg?style=flat&logo=appveyor)](https://github.com/jeremyckahn/chitchatter)
-![code-size](https://img.shields.io/github/languages/code-size/stanlyshi/chitchatter-cfg?color=blue)
 
 # Chitchatter
 
