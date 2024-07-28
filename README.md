@@ -3,7 +3,6 @@
 
 [![chitchatter](https://img.shields.io/badge/source-chitchatter-tomato.svg?style=flat&logo=appveyor)](https://github.com/jeremyckahn/chitchatter)
 
-# Chitchatter
 
 ![Chitchatter logo](./public/logo/logo.svg)
 
